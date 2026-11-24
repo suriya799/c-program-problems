@@ -7,8 +7,7 @@ Practice programs written in C while learning programming basics.
 - Topics: input and output, variables, operators, simple calculations
 
 ## How to run
-gcc Q01.c -o Q01
-./Q01
+using vs code and link to github
 
 ## Author
 Suriya Prakash S
